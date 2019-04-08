@@ -1,0 +1,1 @@
+GM_addStyle('.message-wrapper { color: white; }');
