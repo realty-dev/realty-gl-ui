@@ -11,4 +11,4 @@
 // ==/UserScript==
 
 
-GM_addStyle('.message-wrapper { color: white; }');
+GM_addStyle('.message-wrapper { color: black; }');
