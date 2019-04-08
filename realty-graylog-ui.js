@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Realty.com Graylog UI
 // @namespace    http://dashboard.realty.com:9000
-// @version      0.12
+// @version      0.13
 // @updateURL    https://raw.githubusercontent.com/realty-dev/realty-gl-ui/master/realty-graylog-ui.js
 // @description  try to take over the world!
 // @author       Alex Gibson
